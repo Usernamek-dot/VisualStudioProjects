@@ -1,0 +1,10 @@
+C:\Users\micor\source\repos\MatrizNotas\MatrizNotas\bin\Debug\MatrizNotas.exe.config
+C:\Users\micor\source\repos\MatrizNotas\MatrizNotas\bin\Debug\MatrizNotas.exe
+C:\Users\micor\source\repos\MatrizNotas\MatrizNotas\bin\Debug\MatrizNotas.pdb
+C:\Users\micor\source\repos\MatrizNotas\MatrizNotas\obj\Debug\MatrizNotas.csprojAssemblyReference.cache
+C:\Users\micor\source\repos\MatrizNotas\MatrizNotas\obj\Debug\MatrizNotas.frmNotas.resources
+C:\Users\micor\source\repos\MatrizNotas\MatrizNotas\obj\Debug\MatrizNotas.Properties.Resources.resources
+C:\Users\micor\source\repos\MatrizNotas\MatrizNotas\obj\Debug\MatrizNotas.csproj.GenerateResource.cache
+C:\Users\micor\source\repos\MatrizNotas\MatrizNotas\obj\Debug\MatrizNotas.csproj.CoreCompileInputs.cache
+C:\Users\micor\source\repos\MatrizNotas\MatrizNotas\obj\Debug\MatrizNotas.exe
+C:\Users\micor\source\repos\MatrizNotas\MatrizNotas\obj\Debug\MatrizNotas.pdb
