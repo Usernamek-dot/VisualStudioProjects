@@ -1,0 +1,10 @@
+C:\Users\micor\source\repos\NominaMensual\NominaMensual\bin\Debug\NominaMensual.exe.config
+C:\Users\micor\source\repos\NominaMensual\NominaMensual\bin\Debug\NominaMensual.exe
+C:\Users\micor\source\repos\NominaMensual\NominaMensual\bin\Debug\NominaMensual.pdb
+C:\Users\micor\source\repos\NominaMensual\NominaMensual\obj\Debug\NominaMensual.csprojAssemblyReference.cache
+C:\Users\micor\source\repos\NominaMensual\NominaMensual\obj\Debug\NominaMensual.Form1.resources
+C:\Users\micor\source\repos\NominaMensual\NominaMensual\obj\Debug\NominaMensual.Properties.Resources.resources
+C:\Users\micor\source\repos\NominaMensual\NominaMensual\obj\Debug\NominaMensual.csproj.GenerateResource.cache
+C:\Users\micor\source\repos\NominaMensual\NominaMensual\obj\Debug\NominaMensual.csproj.CoreCompileInputs.cache
+C:\Users\micor\source\repos\NominaMensual\NominaMensual\obj\Debug\NominaMensual.exe
+C:\Users\micor\source\repos\NominaMensual\NominaMensual\obj\Debug\NominaMensual.pdb
