@@ -1,0 +1,10 @@
+C:\Users\micor\source\repos\Peajes\Peajes\bin\Debug\Peajes.exe.config
+C:\Users\micor\source\repos\Peajes\Peajes\bin\Debug\Peajes.exe
+C:\Users\micor\source\repos\Peajes\Peajes\bin\Debug\Peajes.pdb
+C:\Users\micor\source\repos\Peajes\Peajes\obj\Debug\Peajes.csprojAssemblyReference.cache
+C:\Users\micor\source\repos\Peajes\Peajes\obj\Debug\Peajes.Form1.resources
+C:\Users\micor\source\repos\Peajes\Peajes\obj\Debug\Peajes.Properties.Resources.resources
+C:\Users\micor\source\repos\Peajes\Peajes\obj\Debug\Peajes.csproj.GenerateResource.cache
+C:\Users\micor\source\repos\Peajes\Peajes\obj\Debug\Peajes.csproj.CoreCompileInputs.cache
+C:\Users\micor\source\repos\Peajes\Peajes\obj\Debug\Peajes.exe
+C:\Users\micor\source\repos\Peajes\Peajes\obj\Debug\Peajes.pdb
